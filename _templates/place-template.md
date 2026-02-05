@@ -1,6 +1,5 @@
 ---
 title:
-type: place
 tags: []
 date: "{{date:YYYY-MM-DD}}"
 locations:
@@ -8,6 +7,7 @@ locations:
     lat:
     lng:
     description:
+    google_maps_url:
 ---
 
 ##

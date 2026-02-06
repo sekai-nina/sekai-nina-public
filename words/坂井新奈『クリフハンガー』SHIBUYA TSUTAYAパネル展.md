@@ -12,13 +12,14 @@ updated_at: 2026-02-06
 
 ## 本人のパネル
 
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/7baddaa0e0cf67a2e81fdf1abfe762a5.jpeg" alt="坂井新奈のパネル 参考画像" width="600">
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/7baddaa0e0cf67a2e81fdf1abfe762a5.jpeg)
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/917f324d48ffc480d2d93c534b351380.jpeg)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/917f324d48ffc480d2d93c534b351380.jpeg" alt="坂井新奈のパネル 参考画像" width="600">
 
-画像は以下のツイートから取得しました：
-![にしん](https://x.com/kirari_nishin/status/2017702758795903379?s=20)*
+画像は以下のツイートから取得した：
+
+![にしん](https://x.com/kirari_nishin/status/2017702758795903379?s=20)
 
 
 以下、本人のパネルに書かれていることを説明する。
@@ -28,20 +29,24 @@ updated_at: 2026-02-06
 また「坂井 新奈」の文字の下側には雲のような線で囲まれたプロフィールがあり、星あるいはヒトデのような箇条書きで、
 
 ☆ 神奈川県出身(上側に小さく括弧付きでカリフォルニアとも書かれている)
+
 ☆ 高校2年 16歳
+
 ☆ A型 INFP 🐟️座
+
 🍦がすきです
+
 五期生です
 
 と書かれている。そのプロフィールの下には、リボンが描かれており、さらにその下には少し歪なハートが描かれている。
 
 パネルに印刷されている本人の写真の頭の少し右上に、「一緒に撮ろうー！！来てくださりありがとう！！」と書かれている。
 
-その右下に、吹き出しで「だいすき」「たくさん遊ぼうねー！！」と書かれているが、これは隣に大田美月のパネルがあることから、大田美月によって書かれてたと推測される。
+その右下に、吹き出しで「だいすき」「たくさん遊ぼうねー！！」と書かれているが、これは隣に大田美月のパネルがあることから、大田美月によって書かれたと推測される。
 
 その吹き出しの下にはハートがある。
 
-パネル、右上に小さく「にぃなブログの今日の発見、今度ためしてみるね… さとうゆ」と同期である佐藤優羽によって書かれており、それに対して坂井新奈は「ありがと！！」と書いている。
+パネルの右上に小さく「にぃなブログの今日の発見、今度ためしてみるね… さとうゆ」と同期である佐藤優羽によって書かれており、それに対して坂井新奈は「ありがと！！」と書いている。
 
 坂井新奈の写真の右側の髪に沿って、縦書きで「笑顔にぃな〜！！」と本人によって書かれている。
 
@@ -60,11 +65,11 @@ updated_at: 2026-02-06
 
 まず「君と生きる」の近くに雲のような吹き出しで「ひなのさんがセンターを務めてくださっています！美月とシンメー！」と書いており、その下に吹き出しから外れて、「色々なことを感じられて考えられる今を大切にできる楽曲です」と書いている。
 
-「好きになるクレッシェンド」に矢印で、「MVみてくださると嬉しいです！！さきてぃセンター！！いずきちとシンメ！！」と雲の吹き出しで書かれている。そしてその下に「チアだったり可愛い！！がつまっている楽曲です♡」と書かれており、雲の吹き出しに対して矢印で「みずらくてごめんなさい！！」と書いている。
+「好きになるクレッシェンド」に矢印で、「MVみてくださると嬉しいです！！さきてぃセンター！！いずきちとシンメ！！」と雲の吹き出しで書かれている。そしてその下に「チアだったり可愛い！！がつまっている楽曲です♡」と書いており、雲の吹き出しに対して矢印で「みずらくてごめんなさい！！」と書いている。
 
 坂井新奈の写真の左側の髪の終端付近に「にいたんいつもたくさんおでかけしてくれてありがと！！大好き♡」と書かれているが、誰によって書かれたかは不明。「たくさんおでかけしている」ことから下田か大田である可能性が高い。筆跡という観点から見ると大田である可能性が高い（「お」の書き方が一致しているため）。
 
-右側に髪の近くに、同期の蔵盛妃那乃が「愛してます ひなのん」と、先輩である4期生の平尾帆夏が「にーたんをみんなで守ろう。ひらほー」と書いている。
+右側の髪の近くに、同期の蔵盛妃那乃が「愛してます ひなのん」と、先輩である4期生の平尾帆夏が「にーたんをみんなで守ろう。ひらほー」と書いている。
 
 そして写真でいうところの坂井新奈の手の下側に大きく坂井新奈のサインがあり、そのサインの左下に「日向坂46 坂井新奈」と本人が書いている。
 
@@ -73,69 +78,69 @@ updated_at: 2026-02-06
 
 ### 下田衣珠季
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/4afba408fb922094a6f4790cc5920d20.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/4afba408fb922094a6f4790cc5920d20.png" alt="下田衣珠季のパネル 参考画像" width="600">
 
 「いずきち　いつもありがとう！！　気が合うね♪ すき！　にぃな」
 
 ### 蔵盛妃那乃
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/7853305991e904b8594e3c190ae8fa0c.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/7853305991e904b8594e3c190ae8fa0c.png" alt="蔵盛妃那乃のパネル 参考画像" width="600">
 
 「ひなのん　小さくてかわいい　いつも一緒にいてくれてありがとう！　すき！　にぃな」
 
 ### 片山紗希
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/efae6b2069f245e492e39c1865589d30.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/efae6b2069f245e492e39c1865589d30.png" alt="片山紗希のパネル 参考画像" width="600">
 
 「さきてぃ　いつでもかわいい！！さきてぃといると笑顔になれる！！　にぃな」
 
 ### 鶴崎仁香
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/983d60739d5d9c329839f6ae30e5a95d.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/983d60739d5d9c329839f6ae30e5a95d.png" alt="鶴崎仁香のパネル 参考画像" width="600">
 
 「にこちゃん　いつもたくさん笑わせてくれてありがとう！！　にぃな」
 
 ### 高井俐香
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/a207de4282eb9e2f3965f991ad1c0d32.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/a207de4282eb9e2f3965f991ad1c0d32.png" alt="高井俐香のパネル 参考画像" width="600">
 
 「りきゃたん　てんしんらんまんかわいい！！いつもありがとう　にぃな」
 
 ### 佐藤優羽
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/ae17d943adc46f808b01917521603522.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/ae17d943adc46f808b01917521603522.png" alt="佐藤優羽のパネル 参考画像" width="600">
 
 「さとうゆ　いつもかわいいねー！たくさんあそぼう！！にぃな」
 
 ### 大野愛実
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/b0a56e6d85b92809d77a17ed7a99ca33.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/b0a56e6d85b92809d77a17ed7a99ca33.png" alt="大野愛実のパネル 参考画像" width="600">
 
 「まなみん　だいすき　ほんとに！　にぃな」
 
 ### 松尾桜
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/077d6a5e26d411f1467f119709f7b36f.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/077d6a5e26d411f1467f119709f7b36f.png" alt="松尾桜のパネル 参考画像" width="600">
 
 「らぶりー　いつもありがとう　美しい かわいい！ やさしい！ にぃな」
 
 ### 大田美月
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/3faf54a81b4c1183a7e1b2effa463cbd.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/3faf54a81b4c1183a7e1b2effa463cbd.png" alt="大田美月のパネル 参考画像" width="600">
 
 「みづき！シンメ！だいすき！いつもありがとう　これからもよろしく！　にぃな」
 
 ### 山口陽世
 
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/2ea4d5bce374095b276079317aac7d7f.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/2ea4d5bce374095b276079317aac7d7f.png" alt="山口陽世のパネル 参考画像" width="600">
 
 「はるよさん　たくさんお話してくださっていつもだいすきです　にぃな」
 
 
 ## SHIBUYA TSUTAYAへのメッセージカード
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/a0ed21ab10260a9e2bf5a411c4325231.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/a0ed21ab10260a9e2bf5a411c4325231.png" alt="SHIBUYA TSUTAYAへのメッセージカード 参考画像" width="600">
 
 文字起こし
 
@@ -145,15 +150,16 @@ updated_at: 2026-02-06
 
 2026年1月26日に放送された「日向坂で会いましょう」にて、メンバーから大野愛実へのメッセージが書かれた襷が大野愛実に渡された。その実物がSHIBUYA TSUTAYAに展示されていた。
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/eea6e69b956a973d493f8c4e09975575.png)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/eea6e69b956a973d493f8c4e09975575.png" alt="大野愛実への襷 参考画像" width="600">
 
-画像は以下のツイートから取得しました：
+画像は以下のツイートから取得した：
 
 ![Site Unreachable](https://x.com/kirari_nishin/status/2017635248079835573?s=46&t=vsthhTJKWR4bP_xeVKACjQ)
 
 
 以下文字起こし
+
 「まなみーんへ まずはだいすきだよ!! いつも不安なこととかしんどいこととかあるはずなのに先頭にたってくれていて本当にありがとう　無理しすぎず背負いすぎず楽しんでね　まなみんなら絶対できる!! ずっと応援しているからねー!! I LOVE まなみ にぃなより」
 
 
-
+筆者も実際に写真を撮りに行き、上の写真と内容が一致していることを確認した。

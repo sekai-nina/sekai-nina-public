@@ -1,8 +1,10 @@
 ---
 title: 『Love yourself!』SHIBUYA TSUTAYAパネル展
-tags: []
-date: 2026-02-06
-date_display: ""
+tags:
+  - Loveyourself
+  - パネル展
+date: 2025-05-20
+date_display: 2025年5月20日
 published_at: 2026-02-06
 updated_at: 2026-02-06
 ---
@@ -10,7 +12,7 @@ updated_at: 2026-02-06
 
 ## 本人のパネル
 
-![image](https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/566799b3c8e37fd383c555e0eb927f13.jpeg)
+<img src="https://sekai-nina-public.s3.ap-northeast-1.amazonaws.com/566799b3c8e37fd383c555e0eb927f13.jpeg" alt="坂井新奈のパネル 参考画像" width="600">
 
 画像は以下のツイートから取得した：
 
@@ -42,7 +44,7 @@ updated_at: 2026-02-06
 
 そして首の下に、大きく本人のサインと「日向坂46 坂井新奈です」が書かれている。
 
-## 他人のパネル
+## 坂井新奈が他のメンバーのパネルに書いたこと
 
 おそらく他人のパネルには書き込んでいない。五期生のパネルに書き込んでいないことは確認したが、先輩メンバーのパネルは確認していない。が五期生のパネルに書き込んでいないなら先輩のパネルに書き込んでいないと見てよいだろう。先輩たちのパネルの画像が見つかり次第、確認する予定ではある。
 

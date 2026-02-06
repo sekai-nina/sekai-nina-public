@@ -1,5 +1,5 @@
 ---
-title: 坂井新奈『クリフハンガー』SHIBUYA TSUTAYAパネル展
+title: 『クリフハンガー』SHIBUYA TSUTAYAパネル展
 tags: 
   - クリフハンガー
   - パネル展

@@ -1,0 +1,20 @@
+---
+title: MONSTER GROOVEでのホテルの部屋事情
+tags: []
+date: 2026-03-06
+date_display: ""
+published_at: 2026-03-06
+updated_at: 2026-03-06
+source:
+  - id:
+    url:
+    label:
+locations:
+  - name:
+    lat:
+    lng:
+    description:
+    google_maps_url:
+---
+
+##

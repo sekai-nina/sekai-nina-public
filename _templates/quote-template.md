@@ -1,5 +1,6 @@
 ---
-title:
+title: 
+type: quote
 tags: []
 date: <% tp.date.now("YYYY-MM-DD") %>
 date_display: ""
@@ -9,12 +10,4 @@ source:
   - id:
     url: 
     label: 
-locations:
-  - name:
-    lat:
-    lng:
-    description:
-    google_maps_url:
 ---
-
-##

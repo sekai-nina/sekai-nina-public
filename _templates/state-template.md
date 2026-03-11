@@ -1,5 +1,6 @@
 ---
-title: 
+title:
+type: state
 tags: []
 date: <% tp.date.now("YYYY-MM-DD") %>
 date_display: ""
@@ -10,5 +11,4 @@ source:
     url: 
     label: 
 ---
-##
 

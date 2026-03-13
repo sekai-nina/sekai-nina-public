@@ -1,5 +1,5 @@
 ---
-title: インプット
+title: draft_インプット
 type: event
 tags: []
 date: 2026-03-06

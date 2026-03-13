@@ -1,9 +1,10 @@
 ---
-title: 参加ライブ一覧
+title: draft_参加ライブ一覧
 type: event
 tags: []
 date: 2026-03-06
 date_display: ""
+draft: true
 published_at: "2026-03-14"
 updated_at: "2026-03-14"
 source:

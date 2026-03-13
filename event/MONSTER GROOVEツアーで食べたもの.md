@@ -1,9 +1,7 @@
 ---
 title: MONSTER GROOVEツアーで食べたもの
 type: event
-tags: []
-date: 2026-03-06
-date_display: ""
+tags: [食べ物,全国ツアー]
 published_at: "2026-03-14"
 updated_at: "2026-03-14"
 source:
@@ -13,12 +11,14 @@ source:
     date: 2025-07-19
   - id: 2
     label: 坂井新奈トーク 2025.11.2 10:00
+    date: 2025-11-02
   - id: 3
     url: https://www.hinatazaka46.com/s/official/diary/detail/65974
     label: 坂井新奈ブログ「真っ白な空」
     date: 2025-10-04
   - id: 4
     label: 全国ツアー2025愛知キャンペーン
+    date: 2025-07-29
   - id: 5
     url: https://www.hinatazaka46.com/s/official/diary/detail/65874
     label: 坂井新奈ブログ「わくわく 坂井新奈」
@@ -39,12 +39,6 @@ source:
     url: https://www.hinatazaka46.com/s/official/diary/detail/66328
     label: 坂井新奈ブログ「今日はどんな1日になるかな~」
     date: 2025-10-25
-locations:
-  - name:
-    lat:
-    lng:
-    description:
-    google_maps_url:
 ---
 
 

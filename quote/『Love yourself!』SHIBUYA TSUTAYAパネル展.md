@@ -6,8 +6,8 @@ tags:
   - パネル展
 date: 2025-05-20
 date_display: 2025年5月20日
-published_at: 2026-02-06
-updated_at: 2026-02-06
+published_at: "2026-03-14"
+updated_at: "2026-03-14"
 ---
 2025年5月20日から5月26日までSHIBUYA TSUTAYA 地下2Fにて、『Love yourself!』のパネル展が行われていた。本記事ではその展示の中で坂井新奈に関連するものだけを取り上げ、記録する。
 

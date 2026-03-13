@@ -1,9 +1,7 @@
 ---
 title: 『お願いバッハ！』SHIBUYA TSUTAYAパネル展
 type: quote
-tags:
-  - お願いバッハ！
-  - パネル展
+tags: [お願いバッハ！,パネル展]
 date: 2025-09-16
 date_display: 2025年9月16日
 published_at: "2026-03-14"

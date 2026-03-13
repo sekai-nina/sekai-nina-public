@@ -1,6 +1,6 @@
 ---
 title:
-type: 
+type: event
 tags: []
 date: <% tp.date.now("YYYY-MM-DD") %>
 date_display: ""

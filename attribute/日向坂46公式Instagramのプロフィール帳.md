@@ -2,13 +2,12 @@
 title: 日向坂46公式Instagramのプロフィール帳
 type: attribute
 tags: [Instagram,プロフィール]
-date: 2026-01-31
-date_display: "2026年1月31日"
 published_at: "2026-03-14"
 updated_at: "2026-03-14"
 source:
   - id: 1
-    label: 2026年1月31日に日向坂46公式Instagramで更新されたストーリー
+    label: 日向坂46公式Instagramで更新されたストーリー
+    date: 2026-01-31
 ---
 
 

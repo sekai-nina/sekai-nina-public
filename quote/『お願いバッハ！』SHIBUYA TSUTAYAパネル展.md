@@ -1,5 +1,6 @@
 ---
 title: 『お願いバッハ！』SHIBUYA TSUTAYAパネル展
+short_id: vfFDHo4
 type: quote
 tags: [お願いバッハ！,パネル展]
 date: 2025-09-16

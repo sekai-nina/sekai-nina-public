@@ -1,5 +1,6 @@
 ---
 title: 『クリフハンガー』SHIBUYA TSUTAYAパネル展
+short_id: BCsv2cO
 type: quote
 tags: [クリフハンガー,パネル展]
 date: 2026-01-28

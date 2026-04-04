@@ -1,5 +1,6 @@
 ---
 title: draft_インプット
+short_id: YZGA4Wn
 type: event
 tags: []
 date: 2026-03-06

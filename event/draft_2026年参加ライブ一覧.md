@@ -1,5 +1,6 @@
 ---
 title: 【2年目】参加したライブ・披露曲一覧
+short_id: aYPwqZE
 type: event
 tags: [ライブ,一覧,2年目]
 draft: true

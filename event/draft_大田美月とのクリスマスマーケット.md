@@ -1,5 +1,6 @@
 ---
 title: 大田美月とのクリスマスマーケット
+short_id: XY1YW7r
 type: event
 tags: []
 date: 2026-03-06

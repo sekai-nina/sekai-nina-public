@@ -1,5 +1,6 @@
 ---
 title:
+short_id: zlBBUCD
 type: event
 tags: []
 draft: true

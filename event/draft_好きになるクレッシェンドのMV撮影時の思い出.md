@@ -1,5 +1,6 @@
 ---
 title: 好きになるクレッシェンドのMV撮影時の思い出
+short_id: d1XXLTp
 type: event
 tags: []
 date: 2026-03-06

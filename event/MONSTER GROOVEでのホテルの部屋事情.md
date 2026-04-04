@@ -1,5 +1,6 @@
 ---
 title: MONSTER GROOVEでのホテルの部屋事情
+short_id: PxJvMqC
 type: event
 tags: [大野愛実,鶴崎仁香,下田衣珠季,片山紗希]
 published_at: "2026-03-14"

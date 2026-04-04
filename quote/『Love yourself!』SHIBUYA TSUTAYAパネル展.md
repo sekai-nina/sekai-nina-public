@@ -1,5 +1,6 @@
 ---
 title: 『Love yourself!』SHIBUYA TSUTAYAパネル展
+short_id: lJbpoXG
 type: quote
 tags: [Loveyourself,パネル展]
 date: 2025-05-20

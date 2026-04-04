@@ -1,5 +1,6 @@
 ---
 title: うまにぃたん
+short_id: UkdeqxR
 type: attribute
 tags: [食レポ]
 published_at: "2026-03-14"

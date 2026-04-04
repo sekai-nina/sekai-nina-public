@@ -1,5 +1,6 @@
 ---
 title: 坂井新奈が思うアイドルの素晴らしさ
+short_id: 906Owhd
 type: attribute
 tags: []
 date: 2025-04-28

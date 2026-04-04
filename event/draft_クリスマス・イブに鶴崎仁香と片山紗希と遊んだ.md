@@ -1,5 +1,6 @@
 ---
 title: クリスマス・イブに鶴崎仁香と片山紗希と遊んだ
+short_id: eYmT614
 type: event
 tags: []
 date: 2026-03-06

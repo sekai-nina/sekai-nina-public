@@ -1,5 +1,6 @@
 ---
 title: バッグの中身
+short_id: GFC2OgM
 type: event
 tags: []
 date: 2026-03-06
@@ -20,3 +21,4 @@ locations:
 ---
 
 ##
+a

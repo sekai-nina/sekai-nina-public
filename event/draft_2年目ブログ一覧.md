@@ -1,5 +1,6 @@
 ---
 title: draft_2年目ブログ一覧
+short_id: d11a41I
 type: event
 tags: [ブログ]
 draft: true

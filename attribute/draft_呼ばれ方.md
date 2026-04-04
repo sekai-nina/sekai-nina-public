@@ -1,5 +1,6 @@
 ---
 title: 呼ばれ方
+short_id: ygoez7r
 type: attribute
 tags: []
 date: 2025-04-10

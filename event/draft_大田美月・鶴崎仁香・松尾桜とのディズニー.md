@@ -1,5 +1,6 @@
 ---
 title: 大田美月・鶴崎仁香・松尾桜とのディズニー
+short_id: HGqRl9l
 type: event
 tags: [五期生,大田美月,鶴崎仁香,松尾桜,ディズニー]
 date: 2026-03-06

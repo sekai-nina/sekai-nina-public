@@ -1,5 +1,6 @@
 ---
 title: MONSTER GROOVEツアーで食べたもの
+short_id: xMOXrEq
 type: event
 tags: [食べ物,全国ツアー]
 published_at: "2026-03-14"

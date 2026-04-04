@@ -1,5 +1,6 @@
 ---
 title:
+short_id: PYRlu6v
 type: event
 tags: []
 date: 2026-03-06

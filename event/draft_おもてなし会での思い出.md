@@ -1,5 +1,6 @@
 ---
 title: おもてなし会での思い出
+short_id: KE27iMx
 type: event
 tags: []
 date: 2026-03-06

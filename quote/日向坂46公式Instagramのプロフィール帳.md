@@ -1,7 +1,7 @@
 ---
 title: 日向坂46公式Instagramのプロフィール帳
 short_id: 7TH3iPd
-type: attribute
+type: quote
 tags: [Instagram,プロフィール]
 published_at: "2026-03-14"
 updated_at: "2026-03-14"

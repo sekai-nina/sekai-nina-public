@@ -1,5 +1,6 @@
 ---
 title: 新しいslope『みせない』
+short_id: GsEGLld
 type: quote
 tags: [日向坂になりましょう,文学,詩]
 date: 2026-05-01

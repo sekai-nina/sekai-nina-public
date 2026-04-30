@@ -8,6 +8,7 @@ updated_at: 2026-05-01
 source:
   - id: 1
     label: 日向坂46公式Instagramのプロフィール帳
+    date: 2026-01-31
 ---
 
 坂井新奈のMBTIは、INFP(仲介者)である^[1]

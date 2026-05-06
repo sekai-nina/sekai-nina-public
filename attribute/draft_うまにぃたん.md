@@ -11,8 +11,7 @@ source:
    url: https://youtu.be/z7Ps-n57VIk?si=cVm8YSx-apc0teVx
    label: 日向坂ちゃんねる「【ぎこちない3人!?】人見知りメンバーで愛知1泊2日した結果は…？【全国ツアー2025キャンペーン】」
    date: 2025-07-29
-   ref: hinata-ch-hitomishiri-aichi-trip
-   akashicId: cmnhp9qh300lwmo1fjog3okyr
+   ref: cmnhp9qh300lwmo1fjog3okyr
 ---
 
 

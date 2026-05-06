@@ -10,18 +10,15 @@ source:
   - url: https://www.hinatazaka46.com/s/official/diary/detail/68294
     label: 坂井新奈ブログ「今日で1年みたいです」
     date: 2026-03-10
-    ref: nina-blog-20260310
-    akashicId: cmn3mp59801j0mowwzyjlpiw7
+    ref: cmn3mp59801j0mowwzyjlpiw7
   - url: https://www.hinatazaka46.com/s/official/diary/detail/68344
     label: 坂井新奈ブログ「溢れ出してくる気持ち」
     date: 2026-03-13
-    ref: nina-blog-20260313
-    akashicId: cmn3mpckn01jsmowwzmdslmvz
+    ref: cmn3mpckn01jsmowwzmdslmvz
   - url: https://www.hinatazaka46.com/s/official/diary/detail/68357
     label: 坂井新奈ブログ「17さい！」
     date: 2026-03-14
-    ref: nina-blog-20260314
-    akashicId: cmn3mpssh01l2mowwlfv4xaey
+    ref: cmn3mpssh01l2mowwlfv4xaey
 ---
 
 | #   | 日付        | タイトル                                                                     | 内容                                                                              |

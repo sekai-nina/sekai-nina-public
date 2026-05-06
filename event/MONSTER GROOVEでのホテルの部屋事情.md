@@ -10,32 +10,27 @@ source:
     url: https://www.hinatazaka46.com/s/official/diary/detail/65874
     label: 坂井新奈ブログ「わくわく 坂井新奈」
     date: 2025-09-27
-    ref: nina-blog-20250927
-    akashicId: cmn3mclhl00dymowwi9xh9am5
+    ref: cmn3mclhl00dymowwi9xh9am5
   - id: 2
     url: https://www.hinatazaka46.com/s/official/diary/detail/65927
     label: 坂井新奈ブログ「真っ青な空 坂井新奈」
     date: 2025-10-01
-    ref: nina-blog-20251001
-    akashicId: cmn3mcvvm00ewmoww3ul34t8l
+    ref: cmn3mcvvm00ewmoww3ul34t8l
   - id: 3
     url: https://www.hinatazaka46.com/s/official/diary/detail/65974
     label: 坂井新奈ブログ「真っ白な空」
     date: 2025-10-04
-    ref: nina-blog-20251004
-    akashicId: cmn3mddz900gmmowwxje6kw0u
+    ref: cmn3mddz900gmmowwxje6kw0u
   - id: 4
     url: https://www.hinatazaka46.com/s/official/diary/detail/66158
     label: 坂井新奈ブログ「🩷」
     date: 2025-10-16
-    ref: nina-blog-20251016
-    akashicId: cmn3meqhd00kqmoww3pnmwj2s
+    ref: cmn3meqhd00kqmoww3pnmwj2s
   - id: 5
     url: https://www.hinatazaka46.com/s/official/diary/detail/66328
     label: 坂井新奈ブログ「今日はどんな1日になるかな~」
     date: 2025-10-25
-    ref: nina-blog-20251025
-    akashicId: cmn3mfly900nqmowwwjs7ropo
+    ref: cmn3mfly900nqmowwwjs7ropo
 ---
 
 

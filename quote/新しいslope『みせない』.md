@@ -10,7 +10,8 @@ updated_at: 2026-05-01
 source:
   - id: 1
     url: https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbWltamtmaGI=?pit_git_type=PIT
-    label: "日向坂になりましょう -五期生成長バラエティ- #15 心を掴む文章力を身につけよう！"
+    label: 日向坂になりましょう【番外編 惹きがある小説の書き出しを考えよう!!】#15a
+
     date: 2026-01-26
     ref: cmnhp9pfq00kqmo1fsvwnt3qm
 ---

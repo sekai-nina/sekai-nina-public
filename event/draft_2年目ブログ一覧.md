@@ -8,15 +8,15 @@ published_at:
 updated_at:
 source:
   - url: https://www.hinatazaka46.com/s/official/diary/detail/68294
-    label: 坂井新奈ブログ「今日で1年みたいです」
+    label: 今日で1年みたいです (1/1)
     date: 2026-03-10
     ref: cmn3mp59801j0mowwzyjlpiw7
   - url: https://www.hinatazaka46.com/s/official/diary/detail/68344
-    label: 坂井新奈ブログ「溢れ出してくる気持ち」
+    label: 溢れ出してくる気持ち (3/3)
     date: 2026-03-13
     ref: cmn3mpckn01jsmowwzmdslmvz
   - url: https://www.hinatazaka46.com/s/official/diary/detail/68357
-    label: 坂井新奈ブログ「17さい！」
+    label: 17さい！ (6/6)
     date: 2026-03-14
     ref: cmn3mpssh01l2mowwlfv4xaey
 ---

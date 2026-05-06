@@ -8,16 +8,16 @@ updated_at: "2026-03-14"
 source:
   - id: 1
     url: https://www.hinatazaka46.com/s/official/diary/detail/61155
-    label: 坂井新奈ブログ「待ち合わせしたあの夏の日 坂井新奈」
+    label: 待ち合わせしたあの夏の日坂井新奈 (3/3)
     date: 2025-07-19
     ref: cmn3mayfw008imowwg8vipnsp
   - id: 2
-    label: 坂井新奈トーク 2025.11.2 10:00
+    label: 坂井新奈 Talk 2025-1102-100052
     date: 2025-11-02
     ref: cmn3mvysd01pimowwud54y3v2
   - id: 3
     url: https://www.hinatazaka46.com/s/official/diary/detail/65974
-    label: 坂井新奈ブログ「真っ白な空」
+    label: 真っ白な空 (5/5)
     date: 2025-10-04
     ref: cmn3mddz900gmmowwxje6kw0u
   - id: 4
@@ -26,27 +26,27 @@ source:
     ref: cmou6oaxf001gih04ca7pvkvz
   - id: 5
     url: https://www.hinatazaka46.com/s/official/diary/detail/65874
-    label: 坂井新奈ブログ「わくわく 坂井新奈」
+    label: わくわく坂井新奈 (3/3)
     date: 2025-09-27
     ref: cmn3mclhl00dymowwi9xh9am5
   - id: 6
     url: https://www.hinatazaka46.com/s/official/diary/detail/65927
-    label: 坂井新奈ブログ「真っ青な空 坂井新奈」
+    label: 真っ青な空坂井新奈 (4/4)
     date: 2025-10-01
     ref: cmn3mcvvm00ewmoww3ul34t8l
   - id: 7
     url: https://www.hinatazaka46.com/s/official/diary/detail/65941
-    label: 坂井新奈ブログ「はっぴー」
+    label: はっぴー (2/2)
     date: 2025-10-02
     ref: cmn3md0ul00fimowwb3qtusoa
   - id: 8
     url: https://www.hinatazaka46.com/s/official/diary/detail/66158
-    label: 坂井新奈ブログ「🩷」
+    label: 🩷 (4/4)
     date: 2025-10-16
     ref: cmn3meqhd00kqmoww3pnmwj2s
   - id: 9
     url: https://www.hinatazaka46.com/s/official/diary/detail/66328
-    label: 坂井新奈ブログ「今日はどんな1日になるかな~」
+    label: 今日はどんな1日になるかな~ (5/5)
     date: 2025-10-25
     ref: cmn3mfly900nqmowwwjs7ropo
 ---

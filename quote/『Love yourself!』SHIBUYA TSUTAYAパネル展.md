@@ -12,6 +12,8 @@ source:
     url: https://x.com/kirari_nishin/status/1927188292203610584
     label: にしん(@kirari_nishin)さんのツイート
     date: 2025-05-27
+    ref: x-post-
+    akashicId: cmou6plmk002vih04xas8gzbj
 ---
 2025年5月20日から5月26日までSHIBUYA TSUTAYA 地下2Fにて、『Love yourself!』のパネル展が行われていた。本記事ではその展示の中で坂井新奈に関連するものだけを取り上げ、記録する。
 

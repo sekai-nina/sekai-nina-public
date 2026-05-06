@@ -9,6 +9,8 @@ source:
   - id: 1
     label: 日向坂46公式Instagramで更新されたストーリー
     date: 2026-01-31
+    ref: other-日向坂46公式Instagramで更新さ-
+    akashicId: cmou6qao4003iih04oerausz7
 ---
 
 

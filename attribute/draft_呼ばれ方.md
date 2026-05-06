@@ -13,6 +13,8 @@ source:
     url: https://www.hinatazaka46.com/s/official/diary/detail/59569
     label: 坂井新奈ブログ「一生一度の 坂井新奈」
     date: 2025-04-10
+    ref: nina-blog-20250410
+    akashicId: cmn3m8pho000qmoww7achsc61
   - id: 2
     label: ひなあい登場時のプロフィール
 ---

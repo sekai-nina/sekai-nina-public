@@ -12,6 +12,8 @@ source:
     url: https://x.com/kirari_nishin/status/2017702758795903379
     label: にしん(@kirari_nishin)さんのツイート
     date: 2026-02-01
+    ref: x-post-
+    akashicId: cmou6plmk002vih04xas8gzbj
 ---
 2026年1月28日から2026年2月9日までSHIBUYA TSUTAYA 地下2Fにて、クリフハンガー特別展示が行われていた。本記事ではその展示の中で坂井新奈に関連するものだけを取り上げ、記録する。
 

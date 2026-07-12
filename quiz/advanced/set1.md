@@ -1,5 +1,6 @@
 ---
 title: 上級クイズ セット1
+short_id: daBZtZe
 type: attribute
 draft: true
 questions:

@@ -1,5 +1,6 @@
 ---
 title: 初級クイズ セット1
+short_id: rsUDTmD
 type: attribute
 draft: true
 questions:

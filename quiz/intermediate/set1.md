@@ -1,5 +1,6 @@
 ---
 title: 中級クイズ セット1
+short_id: ySRlgYP
 type: attribute
 draft: true
 questions:

@@ -2,10 +2,9 @@
 title: draft_2年目ブログ一覧
 short_id: d11a41I
 type: event
-tags: [ブログ]
+tags:
+  - ブログ
 draft: true
-published_at:
-updated_at:
 source:
   - url: https://www.hinatazaka46.com/s/official/diary/detail/68294
     label: 坂井新奈ブログ「今日で1年みたいです」

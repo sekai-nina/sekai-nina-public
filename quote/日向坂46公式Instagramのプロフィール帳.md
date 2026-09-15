@@ -2,16 +2,17 @@
 title: 日向坂46公式Instagramのプロフィール帳
 short_id: 7TH3iPd
 type: quote
-tags: [Instagram,プロフィール]
-published_at: "2026-03-14"
-updated_at: "2026-03-14"
+tags:
+  - Instagram
+  - プロフィール
+published_at: 2026-03-14
+updated_at: 2026-03-14
 source:
   - id: 1
     label: 日向坂46公式Instagramで更新されたストーリー
     date: 2026-01-31
     ref: cmou6qao4003iih04oerausz7
 ---
-
 
 2026年1月31日に[日向坂46の公式Instagram](https://www.instagram.com/hinatazaka46/)のストーリーで公開された坂井新奈のプロフィール帳について文字起こしをする。
 

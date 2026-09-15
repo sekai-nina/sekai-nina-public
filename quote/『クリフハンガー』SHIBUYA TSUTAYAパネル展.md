@@ -2,18 +2,21 @@
 title: 『クリフハンガー』SHIBUYA TSUTAYAパネル展
 short_id: BCsv2cO
 type: quote
-tags: [クリフハンガー,パネル展]
+tags:
+  - クリフハンガー
+  - パネル展
 date: 2026-01-28
 date_display: 2026年1月28日
-published_at: "2026-03-14"
-updated_at: "2026-03-14"
-source: 
+published_at: 2026-03-14
+updated_at: 2026-03-14
+source:
   - id: 1
     url: https://x.com/kirari_nishin/status/2017702758795903379
     label: にしん(@kirari_nishin)さんのツイート
     date: 2026-02-01
     ref: cmou6plmk002vih04xas8gzbj
 ---
+
 2026年1月28日から2026年2月9日までSHIBUYA TSUTAYA 地下2Fにて、クリフハンガー特別展示が行われていた。本記事ではその展示の中で坂井新奈に関連するものだけを取り上げ、記録する。
 
 ## 本人のパネル

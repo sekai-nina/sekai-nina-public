@@ -2,11 +2,12 @@
 title: Yes, me now?
 short_id: JVUcFeB
 type: quote
-tags: [大野愛実]
+tags:
+  - 大野愛実
 date: 2025-09-15
-date_display: "2025年9月頃"
-published_at: "2026-07-12"
-updated_at: "2026-07-12"
+date_display: 2025年9月頃
+published_at: 2026-07-12
+updated_at: 2026-07-12
 source:
   - id: 1
     url: https://www.hinatazaka46.com/s/official/diary/detail/65722

@@ -2,14 +2,12 @@
 title: draft_インプット
 short_id: YZGA4Wn
 type: event
-tags: []
 date: 2026-03-06
-date_display: ""
-published_at: "2026-03-14"
+published_at: 2026-03-14
+updated_at: 2026-03-14
 draft: true
-updated_at: "2026-03-14"
-source: 
-  - 坂井新奈トーク 2025.12.1 
+source:
+  - label: 坂井新奈トーク 2025.12.1
 ---
 
 1年目(2025年3月〜2026年3月)に判明した坂井新奈のインプットについてまとめる。

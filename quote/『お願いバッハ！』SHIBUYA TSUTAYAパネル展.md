@@ -2,12 +2,15 @@
 title: 『お願いバッハ！』SHIBUYA TSUTAYAパネル展
 short_id: vfFDHo4
 type: quote
-tags: [お願いバッハ！,パネル展]
+tags:
+  - お願いバッハ！
+  - パネル展
 date: 2025-09-16
 date_display: 2025年9月16日
-published_at: "2026-03-14"
-updated_at: "2026-03-14"
+published_at: 2026-03-14
+updated_at: 2026-03-14
 ---
+
 2025年9月16日から9月21日までSHIBUYA TSUTAYA 地下2Fにて、『お願いバッハ！』のパネル展が行われていた。本記事ではその展示の中で坂井新奈に関連するものだけを取り上げ、記録する。
 ## 本人のパネル
 

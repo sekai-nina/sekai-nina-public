@@ -2,7 +2,8 @@
 title: MBTI
 short_id: 4Yk55Qw
 type: attribute
-tags: [性格]
+tags:
+  - 性格
 published_at: 2026-05-01
 updated_at: 2026-05-01
 source:

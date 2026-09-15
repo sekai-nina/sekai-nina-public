@@ -2,11 +2,13 @@
 title: 『Love yourself!』SHIBUYA TSUTAYAパネル展
 short_id: lJbpoXG
 type: quote
-tags: [Loveyourself,パネル展]
+tags:
+  - Loveyourself
+  - パネル展
 date: 2025-05-20
 date_display: 2025年5月20日
-published_at: "2026-03-14"
-updated_at: "2026-03-14"
+published_at: 2026-03-14
+updated_at: 2026-03-14
 source:
   - id: 1
     url: https://x.com/kirari_nishin/status/1927188292203610584
@@ -14,6 +16,7 @@ source:
     date: 2025-05-27
     ref: cmou6plmk002vih04xas8gzbj
 ---
+
 2025年5月20日から5月26日までSHIBUYA TSUTAYA 地下2Fにて、『Love yourself!』のパネル展が行われていた。本記事ではその展示の中で坂井新奈に関連するものだけを取り上げ、記録する。
 
 ## 本人のパネル

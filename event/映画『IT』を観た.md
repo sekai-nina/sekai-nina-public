@@ -2,9 +2,11 @@
 title: 映画『IT』を観た
 short_id: kaz5s8H
 type: event
-tags: [映画, ホラー]
-published_at: "2026-07-12"
-updated_at: "2026-07-12"
+tags:
+  - 映画
+  - ホラー
+published_at: 2026-07-12
+updated_at: 2026-07-12
 source:
   - id: 1
     url: https://www.hinatazaka46.com/s/official/diary/detail/60934

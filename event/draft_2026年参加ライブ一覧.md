@@ -2,11 +2,14 @@
 title: 【2年目】参加したライブ・披露曲一覧
 short_id: aYPwqZE
 type: event
-tags: [ライブ,一覧,2年目]
-draft: true
+tags:
+  - ライブ
+  - 一覧
+  - 2年目
 date_mode: range
-published_at: "2026-03-31"
-updated_at: "2026-03-31"
+published_at: 2026-03-31
+updated_at: 2026-03-31
+draft: true
 ---
 
 坂井新奈が加入後2年目（2026年4月〜）に参加したライブと披露曲の一覧。

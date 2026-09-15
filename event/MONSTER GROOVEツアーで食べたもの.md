@@ -2,9 +2,11 @@
 title: MONSTER GROOVEツアーで食べたもの
 short_id: xMOXrEq
 type: event
-tags: [食べ物,全国ツアー]
-published_at: "2026-03-14"
-updated_at: "2026-03-14"
+tags:
+  - 食べ物
+  - 全国ツアー
+published_at: 2026-03-14
+updated_at: 2026-03-14
 source:
   - id: 1
     url: https://www.hinatazaka46.com/s/official/diary/detail/61155

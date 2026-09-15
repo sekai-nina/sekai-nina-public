@@ -2,9 +2,13 @@
 title: MONSTER GROOVEでのホテルの部屋事情
 short_id: PxJvMqC
 type: event
-tags: [大野愛実,鶴崎仁香,下田衣珠季,片山紗希]
-published_at: "2026-03-14"
-updated_at: "2026-03-14"
+tags:
+  - 大野愛実
+  - 鶴崎仁香
+  - 下田衣珠季
+  - 片山紗希
+published_at: 2026-03-14
+updated_at: 2026-03-14
 source:
   - id: 1
     url: https://www.hinatazaka46.com/s/official/diary/detail/65874
@@ -32,7 +36,6 @@ source:
     date: 2025-10-25
     ref: cmn3mfly900nqmowwwjs7ropo
 ---
-
 
 坂井新奈が2025年の全国ツアーMONSTER GROOVEにて、各地域で誰とホテルの部屋が一緒だったのかをまとめる。
 ## 宮崎

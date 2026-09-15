@@ -2,20 +2,20 @@
 title: 新しいslope『みせない』
 short_id: GsEGLld
 type: quote
-tags: [日向坂になりましょう,文学,詩]
+tags:
+  - 日向坂になりましょう
+  - 文学
+  - 詩
 date: 2026-05-01
-date_display: ""
 published_at: 2026-05-01
 updated_at: 2026-05-01
 source:
   - id: 1
     url: https://lemino.docomo.ne.jp/contents/Y3JpZDovL3BsYWxhLmlwdHZmLmpwL3ZvZC8wMDAwMDAwMDAwXzAwbWltamtmaGI=?pit_git_type=PIT
     label: 日向坂になりましょう【番外編 惹きがある小説の書き出しを考えよう!!】#15
-
     date: 2026-01-26
     ref: cmnhp9pfq00kqmo1fsvwnt3qm
 ---
-
 
 『日向坂になりましょう#15 心を掴む文章力を身につけよう！」の回で、坂井新奈が「秘密」というテーマで心に響くポエムを書いたので、その内容について記録する。坂井新奈のペンネームは「新しいslope」である。
 

@@ -16,7 +16,7 @@ source:
   - id: 2
     label: 坂井新奈トーク 2025.11.2 10:00
     date: 2025-11-02
-    ref: cmn3mvysd01pimowwud54y3v2
+    ref: cmq22p3hx0039ky04n63mylkd
   - id: 3
     url: https://www.hinatazaka46.com/s/official/diary/detail/65974
     label: 坂井新奈ブログ「真っ白な空」

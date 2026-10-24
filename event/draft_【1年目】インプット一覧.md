@@ -8,6 +8,7 @@ updated_at: 2026-03-14
 draft: true
 source:
   - label: 坂井新奈トーク 2025.12.1
+    ref: cmq22wg8601jlky04kr48r7dt
 ---
 
 1年目(2025年3月〜2026年3月)に判明した坂井新奈のインプットについてまとめる。
